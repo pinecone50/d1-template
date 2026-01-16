@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0479abf2-8cc9-4ba1-8dde-89a3fd97303f",
+			"database_name": "cammy-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
